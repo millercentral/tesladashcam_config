@@ -1,0 +1,13 @@
+\\nas01.lan\video\other\tesla\teslausb
+--merge
+--delete_source 
+--layout WIDESCREEN 
+--swap 
+--halign CENTER --valign TOP 
+--speedup 3 
+--motion_only 
+--encoding x265 
+--gpu 
+--gpu_type nvidia 
+--no-check_for_update 
+--no-notification
